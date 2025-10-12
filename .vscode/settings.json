@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": ".venv/bin/python",
+    "python.analysis.extraPaths": [
+        "src/SparseSim",
+        "src/SparseSim.fermion",
+        "src/CTE",
+        "src/Noise_Models"
+    ],
+    "python.analysis.usePYTHONPATH": true
+}

@@ -1,0 +1,13 @@
+*.npy
+
+.venv
+.venv/
+venv/
+
+/__pycache__/
+*.py[cod]
+*.so
+*.dylib
+*.dll
+
+logs/
