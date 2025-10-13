@@ -1,0 +1,33 @@
+# Byte-code & caches
+__pycache__/
+*.py[cod]
+
+# Virtual-env
+.venv/
+
+# Build / packaging artefacts
+build/
+sparse_sim/build/
+dist/
+*.egg-info/
+
+# Cython-generated C & compiled extension
+sparse_sim/cython/*.c
+sparse_sim/*.so       # or simply *.so if you prefer
+
+# C compiler artefacts
+*.o
+*.dSYM/
+temp.*
+
+# Test / coverage artefacts
+.cache/
+.coverage
+*.log
+
+# macOS / editor noise
+.DS_Store
+.vscode/
+.idea/
+*~
+__MACOSX/
