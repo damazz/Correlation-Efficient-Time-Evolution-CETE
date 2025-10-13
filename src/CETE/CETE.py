@@ -10,7 +10,7 @@ from datetime import datetime
 from sparse_sim.fermion.hamiltonian import *
 from sparse_sim.fermion.qiskit_wrapper import *
 from sparse_sim.fermion.rdm import *
-from sparse_sim.sparse_sim import *
+from sparse_sim.cython.core import *
 
 MAX_CIRCUITS = 300
 FALSE_POSITIVE_REJECTION_RATE = 0.3

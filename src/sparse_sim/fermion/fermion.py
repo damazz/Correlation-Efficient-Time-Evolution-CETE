@@ -2,7 +2,7 @@ import numbers
 import numpy as np
 
 from .projector import *
-from ..sparse_sim import *
+from ..cython.core import *
 
 
 class FermionicOperator:

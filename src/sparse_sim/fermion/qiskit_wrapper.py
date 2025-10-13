@@ -20,7 +20,7 @@ import warnings
 from scipy.optimize import OptimizeWarning
 
 from .fermion import *
-from ..sparse_sim import *
+from ..cython.core import *
 
 warnings.filterwarnings("ignore", category=OptimizeWarning)
 

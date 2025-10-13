@@ -5,5 +5,9 @@ matplotlib>=3.10.3
 qiskit_nature>=0.7.2
 qiskit_ibm_runtime>=0.40.1
 pyscf>=2.9.0
-cython>=3.1.2
 mthree>=3.0.0
+
+[dev]
+cython>=3.0
+build
+wheel

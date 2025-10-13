@@ -1,7 +1,7 @@
 from importlib.metadata import PackageNotFoundError, version as _pkg_version
 
-from . import CETE
-from . import CETE_helper
+from CETE import CETE
+from CETE.CETE_helper_H2 import *
 
 __all__ = [
     "format_statevector",

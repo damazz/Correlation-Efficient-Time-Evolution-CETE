@@ -1,7 +1,8 @@
 {
     "python.analysis.extraPaths": [
-        "src/SparseSim",
-        "src/SparseSim.fermion",
+        "src/sparse_sim",
+        "src/sparse_sim.fermion",
+        "src/sparse_sim.cython",
         "src/CETE",
     ],
     "python.analysis.usePYTHONPATH": true

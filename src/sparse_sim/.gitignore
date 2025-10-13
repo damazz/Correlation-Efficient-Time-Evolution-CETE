@@ -22,7 +22,7 @@ temp.*
 
 # Test / coverage artefacts
 .cache/
-.coverage
+.coverageI
 *.log
 
 # macOS / editor noise
