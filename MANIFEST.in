@@ -2,7 +2,7 @@ graft src/CETE
 graft src/sparse_sim
 global-exclude __pycache__ *.py[cod]
 
-recursive-include src/sparse_sim/cython core.c core.pyx *.pxd *.pyi
+recursive-include src/sparse_sim/cython core.c core.pyx  core.pyi
 recursive-include src/sparse_sim/include *.h
 include src/sparse_sim/__init__.pyi
 include src/sparse_sim/py.typed

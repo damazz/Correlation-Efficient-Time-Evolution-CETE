@@ -11,6 +11,7 @@ Requires-Dist: qiskit_nature>=0.7.2
 Requires-Dist: qiskit_ibm_runtime>=0.40.1
 Requires-Dist: pyscf>=2.9.0
 Requires-Dist: mthree>=3.0.0
+Requires-Dist: scipy>=1.16.2
 Provides-Extra: dev
 Requires-Dist: cython>=3.0; extra == "dev"
 Requires-Dist: build; extra == "dev"
