@@ -12,6 +12,12 @@ This repository contains an implementation of the correlation-efficient time-evo
 
 To use:
 
-1) Clone github repository
-2) To install and load the packages: pip install . 
+1) Clone github repository: 
+
+    git clone git@github.com:damazz/Correlation-Efficient-Time-Evolution-CETE.git
+
+2) Install and load dependencies
+
+    pip install . 
+
 3) Open notebook
