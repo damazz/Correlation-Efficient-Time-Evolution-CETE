@@ -4,7 +4,7 @@ This repository contains an implementation of the correlation-efficient time-evo
 
 - Main implementation: src/CETE
 
-- Exapmple notebook: notebooks/H2.ipynb
+- Example notebook: notebooks/H2.ipynb
 
 - Supporting code: src/CETE/CETE_helper_H2.py
 
